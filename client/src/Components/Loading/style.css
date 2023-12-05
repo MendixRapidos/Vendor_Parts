@@ -1,0 +1,16 @@
+.Loading {
+  background: rgb(255, 255, 255);
+  width: 100%;
+  height: 100vh;
+  align-items: center;
+}
+
+.Loading-wrapper {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+  color: #09AA6E;
+  text-align: center;
+}
